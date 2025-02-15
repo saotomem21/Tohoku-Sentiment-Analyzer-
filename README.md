@@ -186,6 +186,3 @@ pytest --cov=.
 ## ライセンス
 MIT License
 
-## 連絡先
-- メール: support@example.com
-- Issues: https://github.com/your-repo/csv-analyzer-web/issues
